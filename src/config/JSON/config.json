@@ -1,0 +1,16 @@
+{
+    "url":"http://linguoo.com/",
+    "login-url":"https://web.linguoo.com/#!/access/signin",
+    "community-url":"http://linguoo.com/community/",
+    "spanish-url":"http://linguoo.com/espanol-escucha-los-mejores-audiolibros-resumidos-en-espanol/",
+    "playstore-url":"https://play.google.com/store/apps/details?id=com.linguoo.linguooapp&hl=en",
+    "facebook-url":"https://www.facebook.com/linguoo",
+    "twitter-url":"https://twitter.com/linguooapp",
+    "user-info":{
+        "name":"John",
+        "last name":"Incremental",
+        "email":"revhouse.pruebas@gmail.com",
+        "password":"veridisquo",
+        "message":"Mensaje de prueba genérico."
+    }
+}
